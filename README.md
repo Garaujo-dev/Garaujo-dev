@@ -1,11 +1,5 @@
 ### Olá! Eu sou o Gabriel Araújo 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Garaujo-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garaujo-dev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-### 🚀 Sobre Mim
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unijorge (1º Semestre) em transição de carreira da área da Saúde (Radiologia) para a Tecnologia.
 
 Meu foco atual é conseguir minha primeira oportunidade como **Estagiário em Suporte Técnico** ou **Customer Success**, unindo minha bagagem de atendimento humanizado com minha paixão por resolver problemas técnicos.
@@ -24,7 +18,7 @@ Meu foco atual é conseguir minha primeira oportunidade como **Estagiário em Su
 </div>
 
 ---
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/gabriel-araujo-tech" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gabrielaraujo.dev@outlook.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
 </div>
